@@ -34,3 +34,4 @@ to demonstrate how to use git and GitHub
 - [Kacey Jean-Jacques](https://github.com/kaceyjj)
 - [Tess Goldmann](https://github.com/tessgold)
 - [Silas Weden](https://github.com/silasweden)
+- [Elle Jo WHalen](https://github.com/ewhalen1)
